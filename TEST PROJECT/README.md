@@ -4,7 +4,7 @@
 
 The scope of the final project for ITFactory Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
-Application under test: [Guru99 Banking App](https://demo.guru99.com/V4/index.php)
+Application under test: [Guru99 Banking WebApp](https://demo.guru99.com/V4/index.php)
 
 Tools used: Jira, Zephyr Squad.
 
