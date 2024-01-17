@@ -2,7 +2,9 @@
 
 <h1 align="center">for IT Factory Manual Testing Course</h1>
 
-$${\color{Red}The scope of the final project for ITFactory Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application$$
+$${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}Github}$$
+
+The scope of the final project for ITFactory Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
 Application under test: [Guru99 Banking WebApp](https://demo.guru99.com/V4/index.php)
 
