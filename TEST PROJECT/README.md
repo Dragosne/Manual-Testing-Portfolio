@@ -1,4 +1,4 @@
-<h1>TESTING PROJECT for IT Factory Manual Testing Course</h1>
+<h1>TESTING PROJECT</h1>
 
 <h2>for IT Factory Manual Testing Course</h2>
 
