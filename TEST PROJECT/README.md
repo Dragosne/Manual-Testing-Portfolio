@@ -16,7 +16,7 @@ Tools used: Jira, Zephyr Squad.
    - [Project Release](#functionalities-and-tests-out-of-scope)
 3. [Test Process](#.)
    - [Test Planning](#test-planning)
-     - [Roles and Responsibilities](#roles-and-responsibilities)
+     - [Roles asigned to the project and persons allocated](#Roles-asigned-to-the-project-and-persons-allocated)
      - [Entry Criteria](#entry-criteria)
      - [Exit Criteria](#exit-criteria)
      - [Risks](#risks)
@@ -65,20 +65,20 @@ Here you can find the release that was created for this project:
 
 The test process was performed based on the standard test process as described below.
 
-<h3>1.1 Test planning</h3>
+## TEST PLANNING
 
 The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here: [**COMPLETE TEST PLAN**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/!PROIECT%20ITFACTORY%20TEST%20PLAN.pdf)
 
-<h4>1.1.1. Roles asigned to the project and persons allocated</h4>
+### Roles asigned to the project and persons allocated
 
 **(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
 <ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
+  <li>Project manager: John Smith </li> 
+  <li>Product owner: Krishna Rungta</li>
+  <li>Software developer: Tom Patrick</li>
+  <li>QA Engineer: Dragos Nechifor</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
