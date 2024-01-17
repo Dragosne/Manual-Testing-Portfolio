@@ -1,8 +1,8 @@
 <h1 align="center">TESTING PROJECT</h1>
 
-<h1 align="center" code style="color : blue">for IT Factory Manual Testing Course</h1 /code>
+<h1 align="center">for IT Factory Manual Testing Course</h1>
 
-The scope of the final project for ITFactory Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
+<code style="color : blue">The scope of the final project for ITFactory Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application</code>
 
 Application under test: [Guru99 Banking WebApp](https://demo.guru99.com/V4/index.php)
 
