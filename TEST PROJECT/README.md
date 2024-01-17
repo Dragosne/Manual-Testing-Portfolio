@@ -1,5 +1,7 @@
 <h1>TESTING PROJECT for IT Factory Manual Testing Course</h1>
 
+<h2>for IT Factory Manual Testing Course</h2>
+
 The scope of the final project for ITFactory Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
 Application under test: Guru99 Banking App
