@@ -8,7 +8,7 @@ Application under test: [Guru99 Banking WebApp](https://demo.guru99.com/V4/index
 
 Tools used: Jira, Zephyr Squad.
 
-## Table of Content:
+## <align="center"> Table of Content:
 1. [Introduction](#introduction)
    - [Project Objective](#project-objective)
    - [Functionalities in Scope](#functionalities-in-scope)
