@@ -22,8 +22,8 @@ Tools used: Jira, Zephyr Squad.
         - [Exit Criteria](#exit-criteria)
         - [Suspension Criteria](#suspension-criteria)
      
-     - [Test Scope] (#test-scope)
-        - [Test IN Scope] (#test-in-scope)
+     - [Test Scope](#test-scope)
+        - [Test IN Scope](#test-in-scope)
         - [Test NOT IN Scope](#test-not-in-scope)
      - [Risks](#risks-detected)   
 
