@@ -109,8 +109,7 @@ Execute each use case, use-case flow, or function, using valid and invalid data,
 - all the test have been executed
 - 100% of test are passed
 - all reported bugs have been fixed and retested
-- the menu is completely functional and all required specification have been met
-- a manager can add a new customer successfuly
+- no critical issues have Open status.
 
 #### SUSPENSION CRITERIA
 
@@ -121,8 +120,7 @@ Execute each use case, use-case flow, or function, using valid and invalid data,
 
 #### TESTS IN SCOPE
 
-- All the features of New Customer, Edit Customer, and Delete Customer module defined in Guru99 business requirements will be tested using functional testing
--  and GUI testing.
+- All the features of New Customer, Edit Customer, and Delete Customer module defined in Guru99 business requirements will be tested using functional testing and GUI testing.
 - A manager can add a new customer
 - To check if the same Email Id exist in the system, system shows an error
 - To ensure that new customers can successfully register and access the Guru99 Bank services
@@ -138,11 +136,18 @@ Execute each use case, use-case flow, or function, using valid and invalid data,
 
 #### PROJECT RISKS:
 
-**(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
-
+- Limited number of persons in the team
+- The project schedule is too tight; it's hard to complete this project on time
+- A lack of cooperation negatively affects your employees' productivity
+  
 #### PRODUCT RISKS:
 
-**(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
+- Server Stability risks (crashes, disconnects, etc)
+- The Guru99 Bank App is not intuitive and easy to understand.
+- Some of the Guru99 Bank users may not have adequate computer knowledge to use the site.
+- Validation constraints on the fields might be too restrictive to the end-user
+- Data validation errors
+- New browser might not be supported
 
 #### EVALUATING ENTRY CRITERIA
 
