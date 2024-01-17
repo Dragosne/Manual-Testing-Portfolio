@@ -13,7 +13,7 @@ Tools used: Jira, Zephyr Squad.
 1. [Introduction](#introduction)
    - [Functional Specifications of Project](#functional-specifications-of-project)
    - [Complete Test Plan](#complete-test-plan)
-   - [Complete Documentation](#Complete-Guru99-Banking-Software-requirements-specifications)
+   - [Complete Documentation](#complete-guru99-banking-software-requirements-specifications)
    - [Project Release](#functionalities-and-tests-out-of-scope)
 3. [Test Process](#test-process)
    - [Test Planning](#test-planning)
