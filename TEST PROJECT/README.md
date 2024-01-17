@@ -11,10 +11,11 @@ Tools used: Jira, Zephyr Squad.
 <h2 align="center">TABLE OF CONTENT:</h2>
    
 1. [Introduction](#introduction)
+   - [Functional Specifications](#functional-specifications)
    - [Project Objective](#project-objective)
    - [Functionalities in Scope](#functionalities-in-scope)
    - [Functionalities and Tests Out of Scope](#functionalities-and-tests-out-of-scope)
-2. [Test Process](#test-process)
+3. [Test Process](#test-process)
    - [Test Planning](#test-planning)
      - [Roles and Responsibilities](#roles-and-responsibilities)
      - [Entry Criteria](#entry-criteria)
@@ -26,7 +27,7 @@ Tools used: Jira, Zephyr Squad.
    - [Test Execution](#test-execution)
    - [Test Closure](#test-closure)
    - [Test Monitoring and Control](#test-monitoring-and-control)
-3. [Test Deliverables](#test-deliverables)
+4. [Test Deliverables](#test-deliverables)
    - [Test Conditions](#test-conditions)
    - [Test Cases](#test-cases)
    - [Daily Test Summary Reports](#daily-test-summary-reports)
@@ -36,7 +37,7 @@ Tools used: Jira, Zephyr Squad.
    - [Test Completion Report](#test-completion-report)
    - [Schedule](#schedule)
 
-<h2 align="center">FUNCTIONAL SPECIFICATIONS:</h2>
+## FUNCTIONAL SPECIFICATIONS:
 
 The below story **(daca aveti mai multe scrieti stories**) was created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
 
