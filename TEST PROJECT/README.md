@@ -74,7 +74,7 @@ The test process was performed based on the standard test process as described b
 
 ## TEST PLANNING
 
-The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
+The Test Plan is designed to describe all details of testing for ""New Customer" module of Guru99 Banking WebApp
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here: [**COMPLETE TEST PLAN**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/!PROIECT%20ITFACTORY%20TEST%20PLAN.pdf)
 
