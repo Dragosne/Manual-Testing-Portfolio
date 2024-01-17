@@ -44,9 +44,6 @@ The objective of the testing activities is to check functions and features provi
 
 The purpose of this testing plan is to be used and followed during the testing process and to identify which items and feature will be tested, the types of testing would be performed, the resources and the personnel required for testing process, the risks associated and the schedule to complete the testing process.
 
-![image](https://github.com/Dragosne/Manual-Testing-Portfolio/assets/149407267/88b17815-cef3-4401-a593-89d7f42a5383)
-
-
 ## FUNCTIONAL SPECIFICATIONS OF PROJECT:
 
 The below story was created in Jira and describes the functional specifications of the "**New Customer**" module, for which the final project is performed upon.
