@@ -16,7 +16,7 @@ Tools used: Jira, Zephyr Squad.
    - [Project Release](#functionalities-and-tests-out-of-scope)
 3. [Test Process](#.)
    - [Test Planning](#test-planning)
-       - [Roles asigned to the project and persons allocated](#Roles-asigned-to-the-project-and-persons-allocated)
+   - [Roles asigned to the project and persons allocated](#Roles-asigned-to-the-project-and-persons-allocated)
      - [Test Criteria](#test-criteria)
         - [Entry Criteria](#entry-criteria)
         - [Exit Criteria](#exit-criteria)
