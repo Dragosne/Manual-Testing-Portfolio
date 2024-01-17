@@ -39,9 +39,9 @@ Tools used: Jira, Zephyr Squad.
 
 ## FUNCTIONAL SPECIFICATIONS:
 
-The below story **(daca aveti mai multe scrieti stories**) was created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
+The below story was created in Jira and describes the functional specifications of the "**New Customer**" module, for which the final project is performed upon.
 
-**inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
+![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/ProjectImages/Jira.jpg)
 
 Here you can find the release that was created for this project:
 
