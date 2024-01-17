@@ -11,10 +11,10 @@ Tools used: Jira, Zephyr Squad.
 <h2 align="center">TABLE OF CONTENT:</h2>
    
 1. [Introduction](#introduction)
-   - [Functional Specifications](#functional-specifications)
-   - [Project Objective](#project-objective)
-   - [Functionalities in Scope](#functionalities-in-scope)
-   - [Functionalities and Tests Out of Scope](#functionalities-and-tests-out-of-scope)
+   - [Functional Specifications of Project](#functional-specifications-of-project)
+   - [Complete Test Plan](#complete-test-plan)
+   - [Complete Documentation](#Complete-Guru99-Banking-Software-requirements-specifications)
+   - [Project Release](#functionalities-and-tests-out-of-scope)
 3. [Test Process](#test-process)
    - [Test Planning](#test-planning)
      - [Roles and Responsibilities](#roles-and-responsibilities)
@@ -37,7 +37,7 @@ Tools used: Jira, Zephyr Squad.
    - [Test Completion Report](#test-completion-report)
    - [Schedule](#schedule)
 
-## FUNCTIONAL SPECIFICATIONS:
+## FUNCTIONAL SPECIFICATIONS OF PROJECT:
 
 The below story was created in Jira and describes the functional specifications of the "**New Customer**" module, for which the final project is performed upon.
 
@@ -47,7 +47,7 @@ The below story was created in Jira and describes the functional specifications 
 
 For complete "**Test Plan**" please, click here: [**TEST PLAN**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/!PROIECT%20ITFACTORY%20TEST%20PLAN.pdf)
 
-### COMPLETE SOFTWARE REQUIREMENTS SPECIFICATION:
+### COMPLETE GURU99 BANKING SOFTWARE REQUIREMENTS SPECIFICATION:
 
 For complete "**Documentation**" please, click here: [**Guru99-SRS_v1.3**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/Guru99%20Banking%20SRS_v1.pdf)
 
