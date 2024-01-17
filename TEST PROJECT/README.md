@@ -15,7 +15,7 @@ Tools used: Jira, Zephyr Squad.
    - [Complete Test Plan](#complete-test-plan)
    - [Complete Documentation](#complete-guru99-banking-software-requirements-specifications)
    - [Project Release](#functionalities-and-tests-out-of-scope)
-3. [Test Process](#test-process)
+3. [Test Process](#.)
    - [Test Planning](#test-planning)
      - [Roles and Responsibilities](#roles-and-responsibilities)
      - [Entry Criteria](#entry-criteria)
@@ -57,7 +57,9 @@ Here you can find the release that was created for this project:
 
 **(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
 
-<h1 align="center">Testing process</h1>
+###### .
+
+<h1 align="center">TESTING PROCESS</h1>
 
 The test process was performed based on the standard test process as described below.
 
