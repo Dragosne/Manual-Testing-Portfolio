@@ -17,7 +17,7 @@ Tools used: Jira, Zephyr Squad.
 3. [Test Process](#.)
    - [Test Planning](#test-planning)
      - [Roles asigned to the project and persons allocated](#Roles-asigned-to-the-project-and-persons-allocated)
-     - [Test Criteria]
+     - [Test Criteria](#test-criteria)
         - [Entry Criteria](#entry-criteria)
         - [Exit Criteria](#exit-criteria)
         - [Suspension Criteria](#suspension-criteria)
