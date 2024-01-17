@@ -41,7 +41,7 @@ Tools used: Jira, Zephyr Squad.
 
 The below story was created in Jira and describes the functional specifications of the "**New Customer**" module, for which the final project is performed upon.
 
-![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/ProjectImages/Jira.jpg)
+![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/ProjectImages/jira.jpg)
 
 Here you can find the release that was created for this project:
 
