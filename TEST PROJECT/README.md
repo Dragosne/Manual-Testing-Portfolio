@@ -21,17 +21,20 @@ Tools used: Jira, Zephyr Squad.
         - [Entry Criteria](#entry-criteria)
         - [Exit Criteria](#exit-criteria)
         - [Suspension Criteria](#suspension-criteria)
-     - [Risks](#risks-detected)
+     
      - [Test Scope] (#test-scope)
         - [Test IN Scope] (#test-in-scope)
-        - [Test OUT of Scope](#test-out-of-scope)  
+        - [Test NOT IN Scope](#test-not-in-scope)
+     - [Risks](#risks-detected)   
+
+*******************
    - [Test Analysis](#test-analysis)
    - [Test Design](#test-design)
    - [Test Implementation](#test-implementation)
    - [Test Execution](#test-execution)
    - [Test Closure](#test-closure)
    - [Test Monitoring and Control](#test-monitoring-and-control)
-4. [Test Deliverables](#test-deliverables)
+5. [Test Deliverables](#test-deliverables)
    - [Test Conditions](#test-conditions)
    - [Test Cases](#test-cases)
    - [Daily Test Summary Reports](#daily-test-summary-reports)
@@ -121,8 +124,10 @@ Execute each use case, use-case flow, or function, using valid and invalid data,
 
 - All the features of New Customer, Edit Customer, and Delete Customer module defined in Guru99 business requirements will be tested using functional testing
 -  and GUI testing.
+- A manager can add a new customer
+- To check if the same Email Id exist in the system, system shows an error
 - To ensure that new customers can successfully register and access the Guru99 Bank services
-- The banking site will be only compatible with Chrome version 27 and above
+- The banking site it is compatible with Chrome version 27 and above
 
 #### TESTS NOT IN SCOPE
 
@@ -143,6 +148,8 @@ Execute each use case, use-case flow, or function, using valid and invalid data,
 #### EVALUATING ENTRY CRITERIA
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
+
+*********************
 
 <h3>1.2 Test Monitoring and Control<h3>
 
