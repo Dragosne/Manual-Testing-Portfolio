@@ -43,9 +43,15 @@ The below story was created in Jira and describes the functional specifications 
 
 ![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/ProjectImages/jira.jpg)
 
+### COMPLETE TEST PLAN:
+
 For complete "**Test Plan**" please, click here: [**TEST PLAN**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/!PROIECT%20ITFACTORY%20TEST%20PLAN.pdf)
 
+### COMPLETE SOFTWARE REQUIREMENTS SPECIFICATION:
+
 For complete "**Documentation**" please, click here: [**Guru99-SRS_v1.3**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/Guru99%20Banking%20SRS_v1.pdf)
+
+## PROJECT RELEASE:
 
 Here you can find the release that was created for this project:
 
