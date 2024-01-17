@@ -8,6 +8,33 @@ Application under test: [Guru99 Banking WebApp](https://demo.guru99.com/V4/index
 
 Tools used: Jira, Zephyr Squad.
 
+## Table of Content:
+1. [Introduction](#introduction)
+   - [Project Objective](#project-objective)
+   - [Functionalities in Scope](#functionalities-in-scope)
+   - [Functionalities and Tests Out of Scope](#functionalities-and-tests-out-of-scope)
+2. [Test Process](#test-process)
+   - [Test Planning](#test-planning)
+     - [Roles and Responsibilities](#roles-and-responsibilities)
+     - [Entry Criteria](#entry-criteria)
+     - [Exit Criteria](#exit-criteria)
+     - [Risks](#risks)
+   - [Test Analysis](#test-analysis)
+   - [Test Design](#test-design)
+   - [Test Implementation](#test-implementation)
+   - [Test Execution](#test-execution)
+   - [Test Closure](#test-closure)
+   - [Test Monitoring and Control](#test-monitoring-and-control)
+3. [Test Deliverables](#test-deliverables)
+   - [Test Conditions](#test-conditions)
+   - [Test Cases](#test-cases)
+   - [Daily Test Summary Reports](#daily-test-summary-reports)
+   - [Traceability Matrix](#traceability-matrix)
+   - [Test Case Results](#test-case-results)
+   - [Bugs Report](#bugs-report)
+   - [Test Completion Report](#test-completion-report)
+   - [Schedule](#schedule)
+
 <h2 align="center">FUNCTIONAL SPECIFICATIONS:</h2>
 
 The below story **(daca aveti mai multe scrieti stories**) was created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
