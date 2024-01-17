@@ -17,8 +17,10 @@ Tools used: Jira, Zephyr Squad.
 3. [Test Process](#.)
    - [Test Planning](#test-planning)
      - [Roles asigned to the project and persons allocated](#Roles-asigned-to-the-project-and-persons-allocated)
-     - [Entry Criteria](#entry-criteria)
-     - [Exit Criteria](#exit-criteria)
+     - [Test Criteria]
+        - [Entry Criteria](#entry-criteria)
+        - [Exit Criteria](#exit-criteria)
+        - [Suspension Criteria](#suspension-criteria)
      - [Risks](#risks)
    - [Test Analysis](#test-analysis)
    - [Test Design](#test-design)
@@ -80,6 +82,15 @@ The plan identifies the items to be tested, the features to be tested, the types
   <li>Software developer: Tom Patrick</li>
   <li>QA Engineer: Dragos Nechifor</li>
 </ul>
+
+### TEST CRITERIA
+
+#### TEHNIQUES
+
+Execute each use case, use-case flow, or function, using valid and invalid data, to verify the following: 
+- The expected results occur when valid data is used.
+- The appropriate error or warning messages are displayed when invalid data is used
+- Each rule is properly applied. 
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
