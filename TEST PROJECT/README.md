@@ -12,7 +12,6 @@ Tools used: Jira, Zephyr Squad.
    
 1. [Introduction](#introduction)
    - [Functional Specifications of Project](#functional-specifications-of-project)
-   - [Complete Test Plan](#complete-test-plan)
    - [Complete Documentation](#complete-guru99-banking-software-requirements-specifications)
    - [Project Release](#functionalities-and-tests-out-of-scope)
 3. [Test Process](#.)
@@ -50,10 +49,6 @@ The below story was created in Jira and describes the functional specifications 
 
 ![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/ProjectImages/jira.jpg)
 
-### COMPLETE TEST PLAN:
-
-For complete "**Test Plan**" please, click here: [**TEST PLAN**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/!PROIECT%20ITFACTORY%20TEST%20PLAN.pdf)
-
 ### COMPLETE GURU99 BANKING SOFTWARE REQUIREMENTS SPECIFICATIONS:
 
 For complete "**Documentation**" please, click here: [**Guru99-SRS_v1.3**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/Guru99%20Banking%20SRS_v1.pdf)
@@ -74,7 +69,7 @@ The test process was performed based on the standard test process as described b
 
 The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **(inserati link catre documentul cu planul de testare)**
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here: [**COMPLETE TEST PLAN**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/!PROIECT%20ITFACTORY%20TEST%20PLAN.pdf)
 
 <h4>1.1.1. Roles asigned to the project and persons allocated</h4>
 
