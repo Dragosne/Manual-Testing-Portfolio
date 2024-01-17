@@ -21,7 +21,10 @@ Tools used: Jira, Zephyr Squad.
         - [Entry Criteria](#entry-criteria)
         - [Exit Criteria](#exit-criteria)
         - [Suspension Criteria](#suspension-criteria)
-     - [Risks](#risks)
+     - [Risks](#risks-detected)
+     - [Test Scope] (#test-scope)
+        - [Test IN Scope] (#test-in-scope)
+        - [Test OUT of Scope](#test-out-of-scope)  
    - [Test Analysis](#test-analysis)
    - [Test Design](#test-design)
    - [Test Implementation](#test-implementation)
@@ -73,9 +76,8 @@ The Test Plan is designed to describe all details of testing for all the modules
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here: [**COMPLETE TEST PLAN**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/!PROIECT%20ITFACTORY%20TEST%20PLAN.pdf)
 
-### Roles asigned to the project and persons allocated
+### ROLES ASIGNED TO THE PROJECT AND PERSONS ALOCATED
 
-**(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
 <ul>
   <li>Project manager: John Smith </li> 
   <li>Product owner: Krishna Rungta</li>
@@ -92,35 +94,53 @@ Execute each use case, use-case flow, or function, using valid and invalid data,
 - The appropriate error or warning messages are displayed when invalid data is used
 - Each rule is properly applied. 
 
-<h4> 1.1.2 Entry criteria defined </h4>
+#### ENTRY CRITERIA
 
-**(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
+-	The application construction is completed. 
+-	The guru99 server is functional and the web banking app is available for testing. 
+-	Necessary devices, instruments, and other equipment are acquired. 
+-	Test environment is prepared, and the application is released to the test environment.
+-	Test specification is created
 
-<h4> 1.1.3 Exit criteria defined </h4>
+#### EXIT CRITERIA
 
-**(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
+- all the test have been executed
+- 100% of test are passed
+- all reported bugs have been fixed and retested
+- the menu is completely functional and all required specification have been met
+- a manager can add a new customer successfuly
 
-<h4> 1.1.4 Test scope</h4>
+#### SUSPENSION CRITERIA
 
-<h5> Tests in scope: </h5>
+- the web server is unstable
+- 40% of test cases failed suspend testing util the development team fixes all the failed cases
 
-**(descrieti aici toate testele pe care intentionati sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+### TEST SCOPE
 
-<h5>Tests not in scope: </h5>
+#### TESTS IN SCOPE
 
-**(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)**
+- All the features of New Customer, Edit Customer, and Delete Customer module defined in Guru99 business requirements will be tested using functional testing
+-  and GUI testing.
+- To ensure that new customers can successfully register and access the Guru99 Bank services
+- The banking site will be only compatible with Chrome version 27 and above
 
-<h4>1.1.5 Risks detected</h4>
+#### TESTS NOT IN SCOPE
 
-<h5>Project risks:</h5>
+- Non-functional testing like stress, performance is beyond the scope of this project.
+- Automation testing is beyond scope.
+- No QA support for mobile applications developed. Only web applications will be tested.
+
+### RISKS DETECTED
+
+#### PROJECT RISKS:
 
 **(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)**
 
-<h5> Product risks: </h5>
+#### PRODUCT RISKS:
 
 **(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)**
 
-<h4>1.1.6 Evaluating entry criteria</h4>
+#### EVALUATING ENTRY CRITERIA
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
