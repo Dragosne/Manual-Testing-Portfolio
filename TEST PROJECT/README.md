@@ -16,9 +16,9 @@ Tools used: Jira, Zephyr Squad.
    - [Project Release](#functionalities-and-tests-out-of-scope)
 3. [Test Process](#.)
    - [Test Planning](#test-planning)
-     - [Roles asigned to the project and persons allocated](#Roles-asigned-to-the-project-and-persons-allocated:)
-     - [Test Criteria](#test-criteria-:)
-       - [Entry Criteria](#--entry-criteria--)
+     - [Roles asigned to the project and persons allocated](#Roles-asigned-to-the-project-and-persons-allocated)
+     - [Test Criteria](#test-criteria)
+       - [Entry Criteria](#entry-criteria)
        - [Exit Criteria](#exit-criteria)
        - [Suspension Criteria](#suspension-criteria)
      - [Test Scope](#test-scope)
@@ -50,17 +50,17 @@ The objective of the testing activities is to check functions and features provi
 
 The purpose of this testing plan is to be used and followed during the testing process and to identify which items and feature will be tested, the types of testing would be performed, the resources and the personnel required for testing process, the risks associated and the schedule to complete the testing process.
 
-## FUNCTIONAL SPECIFICATIONS OF PROJECT:
+## FUNCTIONAL SPECIFICATIONS OF PROJECT
 
 The below story was created in Jira and describes the functional specifications of the "**New Customer**" module, for which the final project is performed upon.
 
-![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/ProjectImages/jira.jpg)
+![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/ProjectImages/Jira%20specificattions.jpg)
 
-### COMPLETE GURU99 BANKING SOFTWARE REQUIREMENTS SPECIFICATIONS:
+### COMPLETE GURU99 BANKING SOFTWARE REQUIREMENTS SPECIFICATIONS
 
 For complete "**Documentation**" please, click here: [**Guru99-SRS_v1.3**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/Guru99%20Banking%20SRS_v1.pdf)
 
-## PROJECT RELEASE:
+## PROJECT RELEASE
 
 Here you can find the release that was created for this project:
 
@@ -78,7 +78,7 @@ The Test Plan is designed to describe all details of testing for "New Customer" 
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here: [**COMPLETE TEST PLAN**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/!PROIECT%20ITFACTORY%20TEST%20PLAN.pdf)
 
-### ROLES ASIGNED TO THE PROJECT AND PERSONS ALOCATED:
+### ROLES ASIGNED TO THE PROJECT AND PERSONS ALOCATED
 
 <ul>
   <li>Project manager: John Smith </li> 
@@ -87,16 +87,16 @@ The plan identifies the items to be tested, the features to be tested, the types
   <li>QA Engineer: Dragos Nechifor</li>
 </ul>
 
-### TEST CRITERIA:
+### TEST CRITERIA
 
-#### - TEHNIQUES - 
+#### TEHNIQUES 
 
 Execute each use case, use-case flow, or function, using valid and invalid data, to verify the following: 
 - The expected results occur when valid data is used.
 - The appropriate error or warning messages are displayed when invalid data is used
 - Each rule is properly applied. 
 
-#### - ENTRY CRITERIA - 
+#### ENTRY CRITERIA 
 
 -	The application construction is completed. 
 -	The guru99 server is functional and the web banking app is available for testing. 
@@ -104,14 +104,14 @@ Execute each use case, use-case flow, or function, using valid and invalid data,
 -	Test environment is prepared, and the application is released to the test environment.
 -	Test specification is created
 
-#### - EXIT CRITERIA -
+#### EXIT CRITERIA
 
 - all the test have been executed
 - 100% of test are passed
 - all reported bugs have been fixed and retested
 - no critical issues have Open status.
 
-#### - SUSPENSION CRITERIA - 
+#### SUSPENSION CRITERIA 
 
 - the web server is unstable
 - 40% of test cases failed suspend testing util the development team fixes all the failed cases
