@@ -82,7 +82,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <ul>
   <li>Project manager: John Smith </li> 
-  <li>Product owner: Krishna Rungta</li>
+  <li>Product manager: Krishna Rungta</li>
   <li>Software developer: Tom Patrick</li>
   <li>QA Engineer: Dragos Nechifor</li>
 </ul>
