@@ -89,14 +89,14 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 ### TEST CRITERIA
 
-#### TEHNIQUES
+#### - TEHNIQUES
 
 Execute each use case, use-case flow, or function, using valid and invalid data, to verify the following: 
 - The expected results occur when valid data is used.
 - The appropriate error or warning messages are displayed when invalid data is used
 - Each rule is properly applied. 
 
-#### ENTRY CRITERIA
+#### - ENTRY CRITERIA
 
 -	The application construction is completed. 
 -	The guru99 server is functional and the web banking app is available for testing. 
@@ -104,14 +104,14 @@ Execute each use case, use-case flow, or function, using valid and invalid data,
 -	Test environment is prepared, and the application is released to the test environment.
 -	Test specification is created
 
-#### EXIT CRITERIA
+#### - EXIT CRITERIA
 
 - all the test have been executed
 - 100% of test are passed
 - all reported bugs have been fixed and retested
 - no critical issues have Open status.
 
-#### SUSPENSION CRITERIA
+#### - SUSPENSION CRITERIA
 
 - the web server is unstable
 - 40% of test cases failed suspend testing util the development team fixes all the failed cases
