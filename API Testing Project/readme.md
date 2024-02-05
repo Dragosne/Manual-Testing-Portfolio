@@ -1,13 +1,12 @@
-<h1>API Testing Project for SPOTIFY</h1>
+<h1>API Testing Project for IT Factory Manual Testing Course</h1>
 
-The scope of this project is to use all  API knowledge gained throught the Software Testing course and apply them in practice, using a live application.
+The scope of this project is to use all API knowledge gained throught the Software Testing course and apply them in practice, using a live application.
 
-Application under test: Spotify
+Application under test: SPOTIFY
 
 Tools used: Postman, Newman
 
-Collection link: **Inserati aici linkul catre colectia de API**
-
+Collection link: {https://www.postman.com/gold-rocket-762536/workspace/spotify-api/collection/31285083-a3ff3de4-7a6f-43bd-bbd1-4d90a895f70a?action=share&creator=31285083&active-environment=31285083-f3879606-ec77-41e0-8a47-c4149eb5ed4f}
 <h2>Tests performed</h2>
 
 <ol>
