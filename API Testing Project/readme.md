@@ -6,7 +6,7 @@ Application under test: SPOTIFY
 
 Tools used: Postman, Newman
 
-Collection link: {https://www.postman.com/gold-rocket-762536/workspace/spotify-api/collection/31285083-a3ff3de4-7a6f-43bd-bbd1-4d90a895f70a?action=share&creator=31285083&active-environment=31285083-f3879606-ec77-41e0-8a47-c4149eb5ed4f}
+Collection link: [Spotify API Collection](https://www.postman.com/gold-rocket-762536/workspace/spotify-api/collection/31285083-a3ff3de4-7a6f-43bd-bbd1-4d90a895f70a?action=share&creator=31285083&active-environment=31285083-f3879606-ec77-41e0-8a47-c4149eb5ed4f)
 <h2>Tests performed</h2>
 
 <ol>
