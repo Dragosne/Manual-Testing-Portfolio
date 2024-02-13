@@ -54,7 +54,7 @@ The purpose of this testing plan is to be used and followed during the testing p
 
 The below story was created in Jira and describes the functional specifications of the "**New Customer**" module, for which the final project is performed upon.
 
-![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PROJECT/ProjectImages/Jira%20specificattions.jpg)
+![image](TEST PLAN PROJECT/ProjectImages/Jira specificattions.jpg)
 
 ### COMPLETE GURU99 BANKING SOFTWARE REQUIREMENTS SPECIFICATIONS
 
