@@ -120,7 +120,7 @@ Execute each use case, use-case flow, or function, using valid and invalid data,
 
 #### TESTS IN SCOPE
 
-- All the features of New Customer, Edit Customer, and Delete Customer module defined in Guru99 business requirements will be tested using functional testing and GUI testing.
+- All the features of New Customer module defined in Guru99 business requirements will be tested using functional testing and GUI testing.
 - A manager can add a new customer
 - To check if the same Email Id exist in the system, system shows an error
 - To ensure that new customers can successfully register and access the Guru99 Bank services
@@ -160,11 +160,11 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 **(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)**
 
 <h3> 1.3 Test Analysis </h3>
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
+The testing process will be executed based on the application requirements.
 
 The following test conditions were found: <br>
 
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
+![image](TEST PLAN PROJECT/ProjectImages/testCasesTitles.jpg)
 
 <h3>1.4 Test Design</h3>
 
