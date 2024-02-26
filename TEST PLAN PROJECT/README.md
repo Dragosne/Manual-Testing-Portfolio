@@ -164,7 +164,7 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found: <br>
 
-![image](TEST PLAN PROJECT/ProjectImages/testCasesTitles.jpg)
+![image](TEST PLAN PROJECT/ProjectImages/testCasesTitles.png)
 
 <h3>1.4 Test Design</h3>
 
