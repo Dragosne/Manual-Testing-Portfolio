@@ -165,6 +165,20 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found: <br>
 
+For each field of New Cutomer Menu:
+- Tehnical requirements for each field are met
+- Fields functions with valid and invalid data (characters, special characters, blank, space)
+- The error messages are displayed correctly
+- The inserted data (valid or invalid) will be validated
+- Fields lenght
+
+For the New Customer module:
+- UI test
+- The functional validation is met
+- The functional validation is met
+- A new customer can be created and saved in database
+- Tehnical requirements for the module are met
+
 ![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/testCasesTitles.png)
 
 <h3>1.4 Test Design</h3>
