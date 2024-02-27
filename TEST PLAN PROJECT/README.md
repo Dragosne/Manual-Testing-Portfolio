@@ -160,6 +160,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 **(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)**
 
 <h3> 1.3 Test Analysis </h3>
+
 The testing process will be executed based on the application requirements.
 
 The following test conditions were found: <br>
@@ -169,8 +170,8 @@ The following test conditions were found: <br>
 <h3>1.4 Test Design</h3>
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. 
-The test cases can be accessed here: 
-[**TEST CASES .csv**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/ZFJ-Executions-02-26-2024.csv)
+The test cases can be accessed here:<br> 
+[**TEST CASES .csv**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/ZFJ-Executions-02-26-2024.csv)<br>
 [**TEST CASES .html**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/ZFJ-Executions-02-26-2024.html)
 
 <h3>1.5 Test Implementation</h3>
