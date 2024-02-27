@@ -1,6 +1,6 @@
-<h1 align="center">TESTING PROJECT</h1>
+<h1>TESTING PROJECT</h1>
 
-<h1 align="center">for IT Factory Manual Testing Course</h1>
+<h1>for IT Factory Manual Testing Course</h1>
 
 The scope of the final project for ITFactory Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
