@@ -120,7 +120,7 @@ Execute each use case, use-case flow, or function, using valid and invalid data,
 
 #### TESTS IN SCOPE
 
-- All the features of New Customer module defined in Guru99 business requirements will be tested using functional testing and GUI testing.
+- All the features of New Customer, Edit Customer, and Delete Customer module defined in Guru99 business requirements will be tested using functional testing and GUI testing.
 - A manager can add a new customer
 - To check if the same Email Id exist in the system, system shows an error
 - To ensure that new customers can successfully register and access the Guru99 Bank services
