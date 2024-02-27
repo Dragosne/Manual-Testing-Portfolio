@@ -202,7 +202,7 @@ The following elements are needed to be ready before the test execution phase be
 
 <h3>1.6. Test Execution </h3>
 
-Test cases are executed on the created test Cycle summary: **(inserati aici numele cycle-ului pe care l-ati creat)**
+Test cases are executed on the created test Cycle summary: **Release 3.0/Guru99 Bank Web App Testing**
 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
 
