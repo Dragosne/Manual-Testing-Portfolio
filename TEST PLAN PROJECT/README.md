@@ -182,6 +182,7 @@ For the New Customer module:
 - Tehnical requirements for the module are met
 
 ![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/testCasesTitles.png)
+![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/testCasesTitlesEditDelete.png)
 
 <h3>1.4 Test Design</h3>
 
