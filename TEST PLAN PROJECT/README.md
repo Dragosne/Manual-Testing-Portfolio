@@ -192,7 +192,13 @@ The test cases can be accessed here:<br>
 
 The following elements are needed to be ready before the test execution phase begins:
 
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
+- The test cases are written for the application module to be tested
+- The environment is ready to start the testing process:
+   - Internet connection (good and stable; at list 5mbs specified, 15mbs at a minimum recommended) is available
+   - Desktop or laptop computer, minimum requirements: windows 7 or MacOS Sierra or above; 4GB RAM; CPU 3.4Ghz
+   - Google Chrome ver27 or above installed
+- The Guru99 web app server and database server are intalled, available and online
+- The credentials for app login are provided
 
 <h3>1.6. Test Execution </h3>
 
