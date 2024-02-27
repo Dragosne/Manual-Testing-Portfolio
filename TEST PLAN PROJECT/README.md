@@ -52,7 +52,7 @@ The purpose of this testing plan is to be used and followed during the testing p
 
 ## FUNCTIONAL SPECIFICATIONS OF PROJECT
 
-The below story was created in Jira and describes the functional specifications of the "**New Customer**" module, for which the final project is performed upon.
+The below story was created in Jira and describes the functional specifications of the "**New Customer, Edit Customer and Delete Customer**" modules, for which the final project is performed upon.
 
 ![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/Jira%20specificattions.jpg)
 ![image](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/story%20edit%20customer.png)
