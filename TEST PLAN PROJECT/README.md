@@ -107,7 +107,7 @@ Execute each use case, use-case flow, or function, using valid and invalid data,
 #### EXIT CRITERIA
 
 - all the test have been executed
-- 100% of test are passed
+- 90% of test are passed
 - all reported bugs have been fixed and retested
 - no critical issues have Open status.
 
@@ -168,7 +168,7 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here [**TEST CASES:**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/ZFJ-Executions-02-26-2024.csv))
 
 <h3>1.5 Test Implementation</h3>
 
