@@ -208,7 +208,7 @@ Test cases are executed on the created test Cycle summary: **Release 3.0/Guru99 
 Bugs have been created based on the failed tests. The complete bug reports can be found here: [**BUG REPORTS .csv**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/BugsDetails.csv)
 
 The following is a summary of the bugs that have been found
-[**Jira Bug List**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/bugList.png)
+![**Jira Bug List**](https://github.com/Dragosne/Manual-Testing-Portfolio/blob/main/TEST%20PLAN%20PROJECT/ProjectImages/bugList.png)
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
