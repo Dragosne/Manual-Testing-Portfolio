@@ -159,6 +159,9 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 <h3>1.2 Test Monitoring and Control<h3>
 
+Weekly reports will be generated reflecting the progress of the testing process, schedule adherence, the project cost, necessary resources and the quality level. 
+
+
 **(inserati aici motivul pentru care a fost facuta etapa de monitorizare si control si respectiv cum s-a facut aceasta etapa. Aici veti insera de asemenea si raportul de status (test status report) din zephyr - test metrics - primul din lista care sa reflecte activitatea si evolutia testarii. Recomand aici sa executati teste aproape in fiecare zi ca sa vada angajatorul implicarea voastra in testare)**
 
 <h3> 1.3 Test Analysis </h3>
