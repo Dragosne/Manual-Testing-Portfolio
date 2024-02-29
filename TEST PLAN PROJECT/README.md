@@ -170,16 +170,16 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found: <br>
 
-For each field of New Cutomer Menu:
+For each field of New Cutomer, Edit, Customer Modules:
 - Tehnical requirements for each field are met
 - Fields functions with valid and invalid data (characters, special characters, blank, space)
 - The error messages are displayed correctly
 - The inserted data (valid or invalid) will be validated
 - Fields lenght
 
-For the New Customer module:
+For the entire modules:
 - UI test
-- The functional validation is met
+- The technical requirements are met
 - The functional validation is met
 - A new customer can be created and saved in database
 - Tehnical requirements for the module are met
